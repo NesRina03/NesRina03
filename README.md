@@ -4,7 +4,6 @@
 ![C](https://img.shields.io/badge/c-1e1e1e?style=for-the-badge&logo=c&logoColor=00599C)
 ![C#](https://img.shields.io/badge/c%23-1e1e1e?style=for-the-badge&logo=csharp&logoColor=239120)
 ![CSS3](https://img.shields.io/badge/css3-1e1e1e?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Dart](https://img.shields.io/badge/dart-1e1e1e?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![Java](https://img.shields.io/badge/java-1e1e1e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![HTML5](https://img.shields.io/badge/html5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
