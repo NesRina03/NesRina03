@@ -11,6 +11,4 @@
 
 ![Figma](https://img.shields.io/badge/figma-1e1e1e?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Adobe Illustrator](https://img.shields.io/badge/illustrator-1e1e1e?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00) ![Adobe Photoshop](https://img.shields.io/badge/photoshop-1e1e1e?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 
-![Arduino](https://img.shields.io/badge/Arduino-1e1e1e?style=for-the-badge&logo=arduino&logoColor=00979D)
-
-![Git](https://img.shields.io/badge/git-1e1e1e?style=for-the-badge&logo=git&logoColor=F05033) ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-1e1e1e?style=for-the-badge&logo=arduino&logoColor=00979D) ![Git](https://img.shields.io/badge/git-1e1e1e?style=for-the-badge&logo=git&logoColor=F05033) ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
